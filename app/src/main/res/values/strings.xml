@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">It\'s Your Turn</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="social">Social</string>
+    <string name="filters">Filters</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Statistics -->
+    <string name="all_time">All time</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_places">Places Found</string>
+    <string name="steps">Steps</string>
+    <string name="total_points">Total Points</string>
+    
+    <!-- Social -->
+    <string name="friends">Friends</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="search_friends">Search Friends</string>
+    <string name="share">Share</string>
+    <string name="activity_feed">Activity Feed</string>
+    
+    <!-- Filters -->
+    <string name="main_filter">Main Filter</string>
+    <string name="number_of_people">Number of People: %d</string>
+    <string name="special_scenarios">Special Scenarios</string>
+    <string name="rain">Rain</string>
+    <string name="snow">Snow</string>
+    <string name="night">Night</string>
+    <string name="customizable">Customizable</string>
+    
+    <!-- Notifications -->
+    <string name="channel_weather_name">Weather Updates</string>
+    <string name="channel_weather_description">Get notified about weather conditions for your routes</string>
+    <string name="channel_achievements_name">Achievements</string>
+    <string name="channel_achievements_description">Get notified when you unlock new achievements</string>
+    <string name="channel_routes_name">Route Reminders</string>
+    <string name="channel_routes_description">Get reminders about your saved routes</string>
+    <string name="channel_social_name">Social Updates</string>
+    <string name="channel_social_description">Get notified about friend activities and interactions</string>
+    
+    <!-- Weather -->
+    <string name="weather_update">Weather Update</string>
+    <string name="achievement_unlocked">Achievement Unlocked!</string>
+    <string name="route_reminder">Route Reminder</string>
+    <string name="social_update">Social Update</string>
+    
+    <!-- Achievement Icons -->
+    <string name="achievement_icon">Achievement Icon</string>
+</resources>

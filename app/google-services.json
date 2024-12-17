@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106914158246",
+    "project_id": "its-your-turn-86948",
+    "storage_bucket": "its-your-turn-86948.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106914158246:android:5b1ad3c16b4caa26bd8667",
+        "android_client_info": {
+          "package_name": "org.ostap.itsyourturn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgPIJlNupw5dL49ANDpSTkkC48G7Xg4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
